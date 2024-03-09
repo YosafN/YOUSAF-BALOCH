@@ -1,7 +1,7 @@
 {
     "__JSON__": true,
-    "AUTHOR": "Suhail",
-    "theme": "Suhail-Md",
+    "AUTHOR": "YOUSAF BALOCH",
+    "theme": "YOUSAF MUSA ",
     "LANGUAGE": "English",
     "LANGCODE": "en",  
     "STRINGS": { 
@@ -11,9 +11,9 @@
             "UPDATED_LOCAL": "*Successfully Updated!*"
         },  
         "global": {      
-            "botName": "Suhail-Md",
-            "body": "whatsapp User Bot", 
-            "greet2" : "Thanks To Suhail Ser",
+            "botName": "YOUSAF BALOCH",
+            "body": "YOUSAF ORAF MUSA KHAN", 
+            "greet2" : "Thanks To YOUSAF BALOCH",
             "pic1": "https://telegra.ph/file/ec9bc5038601821f2eb84.jpg", 
             "pic2": "https://telegra.ph/file/bc21f6f60bd1e3805f2a3.jpg", 
             "pic3": "https://telegra.ph/file/3d64d515e218df059601c.jpg", 
@@ -33,21 +33,21 @@
             "antlink": "Link Detected.\n*Good Bye Rouge pirate*",
             "session": "\n*This is your session.json,keep it safe and store it properly*\n_Now Upload This json file in Your Forked Repo_\n Connect your repo to Heroku and *Deploy Branch* and Bot will run for Always\n\n*Powered by Suhail_Md*",
             "mention": " Please mention My Owner",
-            "title": "Suhail-Md",
-            "footer": "sᴜʜᴀɪʟ ᴛᴇᴄʜ ɪɴғᴏ \n www.youtube.com/c/SuhailTechInfo",
-            "by": "Made by: Suhail Tech Info",
+            "title": "YOUSAF BALOCH",
+            "footer": "YOUSAF KHAN ORAF MUSA KHAN//https://youtube.com/@Y.BGamer110?si=CSr9pbS_bAMXCkIC",
+            "by": "Made YOUSAF KHAN 03115971525",
             "chat_desc": "Options Avilable* : 1. mute\n2. unmute\n3. archive\n4. unarchive\n5. read\n6. unread\n7. delete",
             "success": "Done ✓",
             "dot": "Hi, Did you mean *-help?*\n just.. don't bother me while I'm eating ramen",
             "couple_male": "*I'm pretty sure I can't live without being helped!*",
             "couple_female": "*I'm pretty sure I can't live without being helped!*",
-            "admin": "ᴛʜɪs ᴄᴏᴍᴍᴀɴᴅ ɪs ᴏɴʟʏ ғᴏʀ ɢʀᴏᴜᴘ ᴀᴅᴍɪɴ⚠️!",
-            "botAdmin": "ᴘʟᴇᴀsᴇ ᴘʀᴏᴠɪᴅᴇ ᴍᴇ ᴀᴅᴍɪɴ ʀᴏʟᴇ.❗",
-            "owner": "ᴛʜɪs ᴄᴏᴍᴍᴀɴᴅ ɪs ᴏɴʟʏ ғᴏʀ ᴍʏ ᴏᴡɴᴇʀ⚠️",
-            "group": "ᴛʜɪs ғᴇᴀᴛᴜʀᴇ ɪs ᴏɴʟʏ ғᴏʀ ɢʀᴏᴜᴘ❗",
+            "admin": "YOUSAF KHAN BALOCH ORAF MUSA KHAN ⚠️!",
+            "botAdmin": "YOUSAF BALOCH 03115971525.❗",
+            "owner": "YOUSAF BALOCH MUSA KHAN 03115971525⚠️",
+            "group": "BOT OFFICIAL BALOCH ///https://chat.whatsapp.com/KUVsAU4rmCtHxly7fYssFo❗",
             "private": "ᴛʜɪs ғᴇᴀᴛᴜʀᴇ ɪs ᴏɴʟʏ ғᴏʀ ᴍʏ ᴏᴡɴᴇʀ⚠️",
-            "bot": "ᴛʜɪs ᴄᴏᴍᴍᴀɴᴅ ɪs ᴏɴʟʏ ғᴏʀ ᴍʏ ᴏᴡɴᴇʀ⚠️",
-            "wait": "ᴘʀᴏᴄᴇssɪɴɢ ʏᴏᴜʀ ʀᴇᴏ̨ᴜᴇsᴛ✅"
+            "bot": "https://github.com/YosafN/YOUSAF-BALOCH/edit/main/Themes/SUHAIL.json⚠️",
+            "wait": "YOUSAF KHAN please wait ᴛ✅"
         },
         "error": {
             "text": "*You may come to regret trying to manipulate me.\nNow go get this Error fixed*"
