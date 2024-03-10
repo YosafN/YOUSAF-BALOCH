@@ -1,5 +1,5 @@
 {
-  "name": "suhail-md@1.2.8",
+  "name": "YOUSAF KHAN@1.2.8",
   "description": "I am Suhail-Md Whatsapp Chuddy Buddy built in NodeJs to make experience better\n\t if Any Problem : www.youtube.com/c/SuhailTechInfo",
   "logo": "https://telegra.ph/file/d5b1c3544fedc23e11a06.jpg",
   "keywords": ["whatsappbot", "suhailMd", "suhail Md bot", "Suhail-Md", "SuhailMdWhatsaooBot", "SuhailWaBot","SuhailMD","Suhail Md Whatsapp Bot","multi device"],
@@ -9,7 +9,7 @@
   "env": {
     "OWNER_NAME": {
       "description": "Name of Bot Owner",    
-      "value": "Suhail Ser",
+      "value": "YOUSAF BALOCH",
       "required" :true
     },   
      
@@ -27,7 +27,7 @@
     "BOT_NAME": {
       "description": " NAME FOR BOT",
       "required" :false,    
-      "value": "sᴜʜᴀɪʟ-ᴍᴅ"
+      "value": "yousaf Khan"
     }, 
     "IMAGE": {
       "description": "Image for bot",
@@ -61,12 +61,12 @@
     }, 
     "HEROKU_API_KEY": {
       "description": "Put Your Heroku Api Key Here",
-      "value": "",
+      "value": "60ebfef8-aea4-4f1e-8f4a-1f9e9c3c0efb",
       "required" :true 
     },   
     "HEROKU_APP_NAME": {
       "description": "Put Your Heroku App Name Here",
-      "value": "",
+      "value": "yousaf Khan",
     "required" :true
     }, 
     "WAPRESENCE": {
@@ -100,11 +100,11 @@
     },
     "OWNER_NUMBER": {
       "description": "The phone numbers of the users who you want to be admin for the bot (should be in international format without + and multiple numbers must be separated by a comma \",\")",
-      "value": "923184474176"
+      "value": "923115971525"
     },
     "SESSION_ID": {
       "description": "put your SESSION_ID here.",
-      "value": ""
+      "value": "SUHAIL_13_18_03_10_ewogICJjcmVkcy5qc29uIjogIntcIm5vaXNlS2V5XCI6e1wicHJpdmF0ZVwiOntcInR5cGVcIjpcIkJ1ZmZlclwiLFwiZGF0YVwiOlwiMkJ4MFZPUHBYYjZZVTVOSC83REFneFNrTlIvRmNseHgwUHlJdEZlenpIaz1cIn0sXCJwdWJsaWNcIjp7XCJ0eXBlXCI6XCJCdWZmZXJcIixcImRhdGFcIjpcInorOW1VYjQ0aGVwR1JzMGFZZzRqK09LNU1Va1FENnVXUk5VaEpnQzBmejg9XCJ9fSxcInBhaXJpbmdFcGhlbWVyYWxLZXlQYWlyXCI6e1wicHJpdmF0ZVwiOntcInR5cGVcIjpcIkJ1ZmZlclwiLFwiZGF0YVwiOlwiQ0JwSnNUZ3U5aDM3OCtoNFQ2QlJLbXhyVEJPQmRVTjduWTF3K2Y4VHVXRT1cIn0sXCJwdWJsaWNcIjp7XCJ0eXBlXCI6XCJCdWZmZXJcIixcImRhdGFcIjpcIjJMNUpHcUNPMEdSSU5mTzJ5bXVzVFpZSmZLSW5qeWwxL2xwdHI0UnV1aUU9XCJ9fSxcInNpZ25lZElkZW50aXR5S2V5XCI6e1wicHJpdmF0ZVwiOntcInR5cGVcIjpcIkJ1ZmZlclwiLFwiZGF0YVwiOlwid04xRi92Y2kyK1BMbWlWZzRZOTZCUDZCQUtvSW9zRFM3bE1GRTNEVFpGTT1cIn0sXCJwdWJsaWNcIjp7XCJ0eXBlXCI6XCJCdWZmZXJcIixcImRhdGFcIjpcIngrQWVDbnhudU02KzY1SCt6THBJM2VVRW9ES084ZXB3c0tGTFdybFBTbWs9XCJ9fSxcInNpZ25lZFByZUtleVwiOntcImtleVBhaXJcIjp7XCJwcml2YXRlXCI6e1widHlwZVwiOlwiQnVmZmVyXCIsXCJkYXRhXCI6XCI2SzVQQXVwRUYxaVpVTllNSmdUVTh2ZURiYUttTURLQ2ZyZXRUbExJdUhnPVwifSxcInB1YmxpY1wiOntcInR5cGVcIjpcIkJ1ZmZlclwiLFwiZGF0YVwiOlwiVmt1ODBhL1o0YnRPa1BpeEdaK2xlUFBtTG91d3pNc3dJeDVic0x1ekJpcz1cIn19LFwic2lnbmF0dXJlXCI6e1widHlwZVwiOlwiQnVmZmVyXCIsXCJkYXRhXCI6XCJ0OHZpRG10RGZmZlZCRkFBRkpQaE1yUDVPVWhDUmJnTm93eE9LV25vbnJoSStTa0xvV09TYVdBWndsRW9BUXFGSVVpR0lBZU8vaVpkSVNReFVaM2NoZz09XCJ9LFwia2V5SWRcIjoxfSxcInJlZ2lzdHJhdGlvbklkXCI6MTgxLFwiYWR2U2VjcmV0S2V5XCI6XCJ0eVJhbExaKzRYQzF2MWFLbERaTW1wY0V0VjkvZHQyK3RPZEFBVnJZMFlFPVwiLFwicHJvY2Vzc2VkSGlzdG9yeU1lc3NhZ2VzXCI6W10sXCJuZXh0UHJlS2V5SWRcIjozMSxcImZpcnN0VW51cGxvYWRlZFByZUtleUlkXCI6MzEsXCJhY2NvdW50U3luY0NvdW50ZXJcIjowLFwiYWNjb3VudFNldHRpbmdzXCI6e1widW5hcmNoaXZlQ2hhdHNcIjpmYWxzZX0sXCJkZXZpY2VJZFwiOlwiZlVrRnBxd0tRcy0zeFRnQ3R3WlU3Z1wiLFwicGhvbmVJZFwiOlwiMWUxNWUyZjAtZGUwOS00M2FhLWExOTctZjFjMGMyZDZjYjYzXCIsXCJpZGVudGl0eUlkXCI6e1widHlwZVwiOlwiQnVmZmVyXCIsXCJkYXRhXCI6XCJ2YkRSVXB3YllDR2VGYk1jUDJkZkUwR1hTVzA9XCJ9LFwicmVnaXN0ZXJlZFwiOnRydWUsXCJiYWNrdXBUb2tlblwiOntcInR5cGVcIjpcIkJ1ZmZlclwiLFwiZGF0YVwiOlwiSUtkVXBMK1RLNzdMSGFOaFdiOFpEa2I3clRZPVwifSxcInJlZ2lzdHJhdGlvblwiOnt9LFwicGFpcmluZ0NvZGVcIjpcIlRCNktBNEZZXCIsXCJtZVwiOntcImlkXCI6XCI5MjMxMTU5NzE1MjU6NDdAcy53aGF0c2FwcC5uZXRcIixcImxpZFwiOlwiMjIwNDg2NDU3OTIxNzg2OjQ3QGxpZFwiLFwibmFtZVwiOlwi24zZiNiz2YHit6nZgNmA4ret2YDZgOK3qtmA2YDht57ZgNmA4re92YDZgOK3odmA2YDinrPwn4eyUlwifSxcImFjY291bnRcIjp7XCJkZXRhaWxzXCI6XCJDTjZWNEo0RUVJUG10cThHR0FFZ0FDZ0FcIixcImFjY291bnRTaWduYXR1cmVLZXlcIjpcIlBoUGcxRUpiVnNnU1VQL1lDcks2S1dXL2FnMjZHWHFjamw5NEs2TXRBMmM9XCIsXCJhY2NvdW50U2lnbmF0dXJlXCI6XCJIK1pkbWFuVVJ1Y29Gb29rekJtR2xEalBlT1FyOTdoRHlxb1EwZEg2b3pRMHZDYXhOOTRmWmdNblU5c29CbGRKYkJmbXRsVjVRdU5jMGd2UkgyeWlDUT09XCIsXCJkZXZpY2VTaWduYXR1cmVcIjpcIlJhUFhTUjZTUWJZb0QwRGJLNG9ISWExbEp5VzRhTHYvd3BHMEFpTXNOUFhWTlRCb1JQczdFbkZOdk9reW1XdGhPZGhoY0dzck5HQVk5R0hoTWFpM2h3PT1cIn0sXCJzaWduYWxJZGVudGl0aWVzXCI6W3tcImlkZW50aWZpZXJcIjp7XCJuYW1lXCI6XCI5MjMxMTU5NzE1MjU6NDdAcy53aGF0c2FwcC5uZXRcIixcImRldmljZUlkXCI6MH0sXCJpZGVudGlmaWVyS2V5XCI6e1widHlwZVwiOlwiQnVmZmVyXCIsXCJkYXRhXCI6XCJCVDRUNE5SQ1cxYklFbEQvMkFxeXVpbGx2Mm9OdWhsNm5JNWZlQ3VqTFFOblwifX1dLFwicGxhdGZvcm1cIjpcImFuZHJvaWRcIixcImxhc3RBY2NvdW50U3luY1RpbWVzdGFtcFwiOjE3MTAwNzY2NzksXCJteUFwcFN0YXRlS2V5SWRcIjpcIkFBQUFBQ1l3XCJ9IiwKICAiYXBwLXN0YXRlLXN5bmMta2V5LUFBQUFBQ1l3Lmpzb24iOiAie1wia2V5RGF0YVwiOlwid24zeDBjSUVHRXBrcHh1ZDVWTzZYa09YOXdTc0xKbEN0TmFsaTljOE5pVT1cIixcImZpbmdlcnByaW50XCI6e1wicmF3SWRcIjoxMTM4MjMyMDI4LFwiY3VycmVudEluZGV4XCI6MSxcImRldmljZUluZGV4ZXNcIjpbMF19LFwidGltZXN0YW1wXCI6XCIxNzEwMDc1ODY5MjMzXCJ9Igp9"
   
     },
     "OPENAI_API_KEY": {
@@ -124,16 +124,16 @@
     },
     "MODE": {
       "description": "Worktype of your bot. Use public or private, if it is private then only bot number can use it. If public then everyone can use it.",
-      "value": "private"
+      "value": "public"
     },
     "PACK_NAME": {
       "description": "Put Sticker Pack_Name.",
-      "value": "Suhail Md",
+      "value": "YOUSAF KHAN",
       "required": false 
     },
     "PACK_AUTHER": {
       "description": "Put Sticker Author_Name.",
-      "value": "",
+      "value": "BALOCH 03115971525",
       "required": false 
     }
   }, 
