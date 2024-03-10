@@ -6,7 +6,7 @@
 #     𝗠𝗨𝗟𝗧𝗜𝗗𝗘𝗩𝗜𝗖𝗘 𝗪𝗛𝗔𝗧𝗦𝗔𝗣𝗣 𝗨𝗦𝗘𝗥 𝗕𝗢𝗧        #
 #=============================================#
 # 
-#    * @project_name : Suhail-Md
+#    * @project_name : YOUSAF BALOCH 
 #    * @author : @SuhailTechInfo
 #    * @youtube : https://www.youtube.com/c/@SuhailTechInfo
 #    * @description : Suhail-Md ,A Multi-functional whatsapp bot md.
@@ -18,8 +18,8 @@
  
 
 FROM quay.io/suhailtechinfo/suhail-v2
-RUN git clone https://github.com/SuhailTechInfo/Suhail-Md /root/Suhail
-WORKDIR /root/Suhail/
+RUN git clone https://https://github.com/YosafN/YOUSAF-BALOCH//root/YOUSAF 
+WORKDIR /root/YOUSAF/
 RUN npm install
 EXPOSE 8000
 CMD ["npm","start" ] 
